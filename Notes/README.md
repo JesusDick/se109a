@@ -67,6 +67,7 @@ __7. `git remote rm [遠端版本倉庫]` : 移除遠端版本倉庫。__
 __1. `git branch [欲建立的分支]` : 可以將目前master版本，分岔出多個分支版本。__
 
     如 git branch TestA
+    
 __2. `git log --oneline --decorate` : 使用此指令更易於觀察分支情況。__
 
 __3. `git checkout [分支名稱]` : 再分支之間切換。__
